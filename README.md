@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Moi! 👋
+
+My name is Tino..
+
 ![p0p4's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0p4&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0p4&theme=transparent&hide_progress=true)
