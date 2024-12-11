@@ -31,4 +31,14 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p0p4/p0p4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p0p4/p0p4/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/p0p4/p0p4/output/github-snake.svg" />
+</picture>
+
+##
+
+![](https://komarev.com/ghpvc/?username=p0p4&style=pixel)
